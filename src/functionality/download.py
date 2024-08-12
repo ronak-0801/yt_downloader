@@ -21,7 +21,7 @@ ydl_opts = {
     "outtmpl": "C:/Users/ronak/Downloads/ddd/%(id)s.%(extractor)s.%(ext)s",
     "quiet": True,
     "noplaylist": True,
-    # "proxy": "http://uucxmehp:brsbq2fnepzi@45.127.248.127:5128",
+    # "proxy": "",
 }
 
 
